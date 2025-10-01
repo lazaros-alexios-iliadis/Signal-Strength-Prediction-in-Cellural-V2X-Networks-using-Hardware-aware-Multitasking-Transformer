@@ -22,3 +22,13 @@ scikit-learn
 stable-baselines3
 pymoo
 matplotlib, seaborn
+
+# Cite as
+@article{Iliadis_2025,
+title={Signal Strength Prediction in Cellular V2X Networks using Hardware-aware Multitasking Transformer},
+url={http://dx.doi.org/10.36227/techrxiv.175790846.64388533/v1},
+DOI={10.36227/techrxiv.175790846.64388533/v1},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Iliadis, Lazaros Alexios and Sotiroudis, Sotirios P. and Zaharis, Zaharias D. and Sarigiannidis, Panagiotis and Karagiannidis, George K. and Christodoulou, C G and Goudos, Sotirios K.},
+year={2025},
+month=sep }
